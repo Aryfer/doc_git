@@ -22,7 +22,7 @@ git config --global user.name  <e-mail>
 
 
 
-git commit -m <" teste git">  finaliza minha alteração 
+git commit -m " teste de ação do git"  finaliza minha alteração 
 
 
 
