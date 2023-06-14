@@ -12,17 +12,17 @@ git add / tranfere o arquivo para a area segura
 
 configuração do git:
 
-git config --global user.name < meu nome>
+git config --global user.name < meu nome> / no terminal do git
 
 
 
-git config --global user.name  <e-mail>
+git config --global user.e-mail  <meu e-mail> / no terminal do git 
 
+############
 
+git commit -m "confirmações das alterações no projeto"
 
-
-
-git commit -m " teste de ação do git"  finaliza minha alteração 
+git push " sobe as alterções do projeto para o repositorio remoto"
 
 
 
