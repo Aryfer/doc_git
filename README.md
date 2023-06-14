@@ -40,14 +40,21 @@ CTRL + L AVANÇA LINHAS
 
 
 
+
 git log /  valida modificação e comentarios 
 
 
-git chekout -b develop 
 
-git chekout -b login 
+####
+BRANCH`S
 
-git chekout -b cadastro
+git branch / verifica as branch`s existentes no repositorio
+
+
+git chekout  < nome da branch> / alterna para branch especifica
+
+git chekout -b < nome da branch > / alterna e faz a criação da branch simultaneamente ( -b cria a branch de fato) 
+ 
 
 
 
