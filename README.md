@@ -6,7 +6,7 @@ git status / valida os aqruivosmodificados dentro do projeto
 
 git add / tranfere o arquivo para a area segura 
 git add . / forma alternativa ( inclui todos os alterações  em um ou mais arquivos) 
-
+git add -p / pede confirmação para adição das alterações
 
 
 
@@ -26,6 +26,8 @@ git commit -m "confirmações das alterações no projeto"
 
 
 git push " sobe as alterções do projeto para o repositorio remoto"
+
+git pull / baixa alteraçõe feitas remotamente para o repositorio local (na maquina)
 
 
 
