@@ -1,7 +1,9 @@
 # doc_git
+````
 documentação do git / comandos 
+````
 git init / inicia o arquivo git no terminal  
-
+````
 git status / valida os aqruivosmodificados dentro do projeto
 
 git add / tranfere o arquivo para a area segura 
