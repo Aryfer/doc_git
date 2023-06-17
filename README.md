@@ -9,6 +9,10 @@ git status / valida os aqruivosmodificados dentro do projeto
 git commit -m "confirmações das alterações no projeto"
 ````
 
+````
+git clone / cria um repositorio local
+````
+
 
 git add / tranfere o arquivo para a area segura 
 git add . / forma alternativa ( inclui todos os alterações  em um ou mais arquivos) 
